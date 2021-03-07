@@ -3056,7 +3056,7 @@ var Chat_Chat = /*#__PURE__*/function () {
 // CONCATENATED MODULE: ./src/js/app.js
  // const chat = new Chat('ws://localhost:7070');
 
-var chat = new Chat_Chat('ws://ahj-sse-ws-chat.herokuapp.com');
+var chat = new Chat_Chat('wss://ahj-sse-ws-chat.herokuapp.com');
 chat.registerEvents();
 // CONCATENATED MODULE: ./src/index.js
 
